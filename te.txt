@@ -1,0 +1,2 @@
+This is test file
+This test file is for git studing.
